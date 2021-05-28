@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+<Login>//div[@id = 'navbarExample']/descendant::a[@class ='nav-link' and @id = 'login2']</Login>
+<Username>//input[@id = 'loginusername']</Username>
+<Password>//input[@id = 'loginpassword']</Password>
+</menu>
